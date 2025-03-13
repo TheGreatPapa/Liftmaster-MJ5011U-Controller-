@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This is the repo for the controller of a liftmaster motor, this can be used in any other model compatible. It can be flashed in any ESP32 that is compatible with rainmaker <br>
+This is the repo for the controller of a Liftmaster motor, this can be used in any other model compatible. It can be flashed in any ESP32 that is compatible with rainmaker <br> This project uses [Rainmaker](https://rainmaker.espressif.com/docs/get-started/) SDK from Espressif which allow us to have a fully functional app without messing with the cloud.
 
 ## Program the ESP
 
-To program the microcontroller you must have espressif IDF sdk to compile and flash your device.
+To program the microcontroller you must have Espressif IDF sdk to compile and flash your device.
 
 After installed use the next commands:
 
